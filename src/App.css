@@ -1,0 +1,19 @@
+/* 
+.draggable > button {
+  background: #ffffff;
+  color: gray;
+}
+
+.draggable > button.selected {
+  background: #2b7bf3;
+  color: white;
+  border: 0.0001px solid #b7d0f5;
+} */
+
+.selection-area {
+  background: #4f90f22d;
+  border: 1px solid #4f90f2;
+}
+.ReactModal__Overlay--after-open {
+  background-color: rgb(94 94 94 / 75%) !important;
+}
